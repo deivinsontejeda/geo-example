@@ -1,2 +1,2 @@
 # geo-example
-Example which show up how to user http://godoc.org/github.com/kellydunn/golang-geo
+Example which show up how to use http://godoc.org/github.com/kellydunn/golang-geo
